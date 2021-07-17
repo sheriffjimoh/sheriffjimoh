@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 I am a full-stack software developer, computer science student, problem solver and that is my passion, 
+i am open to contribute to an open source, for php and javascript project for now 🔭
 
 📫 How to reach me: 2349034557339, jimohsherifdeen6@gmail.com
