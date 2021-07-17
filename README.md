@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a full-stack software developer, computer science student, problem solver and that is my passion, 
+
+📫 How to reach me: 2349034557339, jimohsherifdeen6@gmail.com
