@@ -1,3 +1,3 @@
--- 👨‍💻 full stack developer 
+👨‍💻 full stack developer 
 
--- 😎 Computer science student 
+😎 Computer science student 
