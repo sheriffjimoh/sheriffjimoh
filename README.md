@@ -24,18 +24,20 @@ maintainable backend design.
 
 ## 🏗 Featured Project
 
-### Curnect Intel
-AI-driven intelligence and analytics platform built with Laravel.
+### CatalogCove
+AI-powered SaaS product catalog platform built with Laravel and React.
 
 Key Contributions:
-- Designed and implemented a 3-role RBAC system with granular permissions
-- Built secure REST APIs with authentication and access control
-- Structured backend using service layers and clean architecture principles
-- Integrated frontend using Vue.js
-- Implemented background processing for performance optimization
-- Maintained clean, documented, production-ready codebase
 
-Tech Stack: Laravel, Vue.js, MySQL, Redis, Tailwind
+Built an AI-powered product listing generation using OpenAI GPT-4 for auto-generating titles and descriptions from images
+Integrated Cloudinary for media management with automated background removal
+Implemented multi-tier subscription billing with Stripe and Paystack payment gateways
+Designed a full-stack SPA architecture using Inertia.js with React and TypeScript
+Built role-based access control and multi-tenant business management
+Developed an analytics tracking system for product and catalog insights
+Tech Stack: Laravel 12, React, TypeScript, Inertia.js, MySQL, Cloudinary, OpenAI, Stripe, Paystack, Tailwind CSS
+
+
 
 ---
 
