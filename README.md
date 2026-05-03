@@ -3,14 +3,14 @@
 Senior Full Stack Engineer | Laravel Specialist | Open Source Contributor
 
 I build scalable, production-grade applications using Laravel and modern frontend frameworks. 
-With over 5 years of experience, I focus on clean architecture, role-based systems, and 
+ I focus on clean architecture, role-based systems, and 
 maintainable backend design.
 
 ---
 
 ## 🚀 Core Technical Strength
 
-- Laravel (4+ years professional experience)
+- Laravel
 - RESTful API design
 - Role-Based Access Control (RBAC) systems
 - Queue processing & background jobs
