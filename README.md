@@ -10,20 +10,17 @@ maintainable backend design.
 
 ## 🚀 Core Technical Strength
 
-- Laravel
-- Node/Express
-- React/Next.js
-- Typescript
-- RESTful API design
-- Role-Based Access Control (RBAC) systems
-- Queue processing & background jobs
-- Redis caching
-- Vue.js (ES Next), Vite
-- Tailwind CSS
-- MySQL & PostgreSQL & MongoDB
-- Git workflows & Agile collaboration
-- AI & automation  integration
-
+🔧 Laravel · Node/Express 
+⚛️ React/Next.js · Vue.js  
+🟦 TypeScript 
+🌐 RESTful APIs 
+🔐 RBAC  
+⚙️ Queues & Jobs 
+⚡ Redis 
+🎨 Tailwind · Vite  
+🗄️ MySQL · PostgreSQL · MongoDB  
+🔀 Git & Agile 
+🤖 AI & Automation
 ---
 
 ## 🏗 Featured Project
